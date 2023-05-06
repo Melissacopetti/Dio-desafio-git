@@ -20,9 +20,9 @@ O projeto consiste em uma página um texto simples centralizado na tela. Utiliza
 ## Como executar o projeto
 Para executar o projeto, siga os passos abaixo:
 1. Clone este repositório em seu computador através do seguinte comando:
-`git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+`git clone https://github.com/Melissacopetti/Dio-desafio-git.git`
 2. Acesse a pasta do projeto:
-`cd nome-do-repositorio`
+`cd Dio-desafio-git`
 3. Instale as dependências:
 `npm install` ou `yarn install`
 4. Inicie a aplicação:
@@ -37,7 +37,7 @@ Caso queira contribuir com este projeto, siga os passos abaixo:
 
 2. Clone o repositório do seu perfil para o seu computador:
 
-`git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+`git clone https://github.com/Melissacopetti/Dio-desafio-git.git`
 
 3. Acesse a pasta do projeto:
 
